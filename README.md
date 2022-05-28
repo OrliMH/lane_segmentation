@@ -6,3 +6,7 @@ lr strategy: cyclic cosine annealing
 ### requirement:
 Python 3.8.12  \
 torch '1.11.0' 
+
+### achievement:
+miou: 0.5577 \
+loss: 0.0496
