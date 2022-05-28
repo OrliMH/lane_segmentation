@@ -1,8 +1,8 @@
 # lane_segmentation
-A lane segmentation project based on deeplabv3plus network architecture, implemented under pytorch. __
-optimizer: AdamW  __
-lr strategy: cyclic cosine annealing __
+A lane segmentation project based on deeplabv3plus network architecture, implemented under pytorch.  <br \>
+optimizer: AdamW  <br \>
+lr strategy: cyclic cosine annealing <br \>
 
 ### requirement:
-Python 3.8.12  __
-torch '1.11.0' __
+Python 3.8.12  <br \>
+torch '1.11.0' <br \>
